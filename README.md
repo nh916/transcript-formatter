@@ -3,7 +3,7 @@
   Me: hi You: hello Me: how are you? You: Good
 
 ### and turns them into 
-  Me: hi
-  You: hello
-  Me: how are you?
-  You: Good
+  Me: hi <br/>
+  You: hello <br/>
+  Me: how are you? <br/>
+  You: Good <br/>
